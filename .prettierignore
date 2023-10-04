@@ -7,3 +7,5 @@ server_env/**
 **/dist
 .github\workflows\wiki-sync-action.yml
 tsconfig.json
+package.json
+package-lock.json
